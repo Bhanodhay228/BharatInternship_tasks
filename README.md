@@ -1,8 +1,5 @@
 DataScience internship
 
-Project Summary
-This data science projects focuses on developing a text classification model to classify Short Message Service (SMS) messages as either spam or non-spam (ham). With the rise of text-based communication, identifying and filtering out spam messages has become crucial. The dataset used for this project contains labeled examples of SMS messages, allowing us to build and train a machine learning model for accurate spam detection.
-
 Objectives
 Data Exploration: Conduct exploratory data analysis (EDA) to understand the characteristics of the SMS dataset, the distribution of spam and non-spam messages, and potential features for classification.
 
